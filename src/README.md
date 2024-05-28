@@ -1,0 +1,1 @@
+This repo is about Concurrent Programming in Rust, also emphasizes usage of threads, channels and mutex.
